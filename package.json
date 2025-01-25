@@ -60,7 +60,7 @@
     "react-quill": "latest",
     "react-beautiful-dnd": "latest",
     "ai": "latest",
-    "openai-edge": "latest",
+    "openai": "latest",
     "zod": "^3.24.1"
   },
   "devDependencies": {
