@@ -57,6 +57,10 @@
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
+    "react-quill": "latest",
+    "react-beautiful-dnd": "latest",
+    "ai": "latest",
+    "openai-edge": "latest",
     "zod": "^3.24.1"
   },
   "devDependencies": {
